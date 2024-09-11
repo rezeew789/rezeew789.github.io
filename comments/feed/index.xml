@@ -7,23 +7,23 @@
 	>
 <channel>
 	<title>
-	Comments for test	</title>
+	Comments for Rob DeCarlo, Technical Writer	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Mon, 09 Sep 2024 02:20:05 +0000</lastBuildDate>
+	<description>[site tagline]</description>
+	<lastBuildDate>Tue, 10 Sep 2024 01:00:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Mon, 09 Sep 2024 02:20:05 +0000</pubDate>
+		<pubDate>Tue, 10 Sep 2024 01:00:11 +0000</pubDate>
 		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
